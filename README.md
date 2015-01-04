@@ -10,3 +10,8 @@ http://ued.taobao.org/blog/2014/02/%E6%A0%85%E6%A0%BC%E8%AF%95%E9%AA%8C-by-%E7%9
 1.HTML5 离线缓存-manifest。
 
 http://yanhaijing.com/html/2014/12/28/html5-manifest/
+
+2.用css绘制各种图形  深入浅出 CSS Shape
+
+http://zhuanlan.zhihu.com/FrontendMagazine/19774074
+
