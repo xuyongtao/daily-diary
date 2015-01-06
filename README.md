@@ -34,4 +34,7 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19774074
 
 新创建的空间试用新的域名规则，使用*.clouddn­.com和*.qiniucdn­.com访问资源。而qiniudn域名在创建空间后不再和空间进行绑定
 原有空间中的qiniudn域名可继续使用。建议您绑定自定义域名
+####2015.01.06
+1.curl是一种命令行工具，作用是发出网络请求，然后得到和提取数据，显示在"标准输出"（stdout）上面。
+
 
