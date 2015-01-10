@@ -41,4 +41,5 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19774074
 ####2015.01.08
 1.从输入 URL 到页面加载完成的过程中都发生了什么事情？
 http://fex.baidu.com/blog/2014/05/what-happen/
-
+####2015.01.10
+1.underscore的keys、range、map、object方法
