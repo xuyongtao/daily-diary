@@ -46,3 +46,6 @@ http://fex.baidu.com/blog/2014/05/what-happen/
 
 2.微信JS-SDK说明文档
 http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
+
+3.复制粘贴功能
+https://github.com/zeroclipboard/zeroclipboard
