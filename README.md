@@ -43,3 +43,6 @@ http://zhuanlan.zhihu.com/FrontendMagazine/19774074
 http://fex.baidu.com/blog/2014/05/what-happen/
 ####2015.01.10
 1.underscore的keys、range、map、object方法
+
+2.微信JS-SDK说明文档
+http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
