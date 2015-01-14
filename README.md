@@ -54,8 +54,13 @@ https://github.com/zeroclipboard/zeroclipboard
 
 2.用window.name跨域;还有其他方式实现跨域，http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html
   1）、document.domain+iframe的设置
+  
   2）、动态创建script
+  
   3）、利用iframe和location.hash
+  
   4）、window.name实现的跨域数据传输
+  
   5）、使用HTML5 postMessage
+  
   6）、利用flash
