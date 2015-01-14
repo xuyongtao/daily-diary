@@ -49,3 +49,13 @@ http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html
 
 3.复制粘贴功能
 https://github.com/zeroclipboard/zeroclipboard
+####2015.01.14
+1.中文 WebFont 自动化压缩工具--字蛛
+
+2.用window.name跨域;还有其他方式实现跨域，http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html
+  1）、document.domain+iframe的设置
+  2）、动态创建script
+  3）、利用iframe和location.hash
+  4）、window.name实现的跨域数据传输
+  5）、使用HTML5 postMessage
+  6）、利用flash
