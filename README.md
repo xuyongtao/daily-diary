@@ -67,4 +67,6 @@ https://github.com/zeroclipboard/zeroclipboard
 ####2015.01.22
 1.videojs（IE8不兼容，也不报错）jwplayer（free版另开一些服务，自动请求其他服务的js失败，导致播放器崩溃）
 
-2.ZeroClipboardIE8好像不支持，报错
+2.ZeroClipboardIE8好像不支持，报错(经查看是因为版本问题，更换为2.0.0可以)，但是出现IE事件冒泡问题，有bug；
+
+具体情况如下fixednav：flash在触发按钮上层（z-index大）；支持事件捕获的浏览器是不会触发离开事件；但是IE8是事件冒泡。
