@@ -64,3 +64,7 @@ https://github.com/zeroclipboard/zeroclipboard
   5）、使用HTML5 postMessage
   
   6）、利用flash
+####2015.01.22
+1.videojs（IE8不兼容，也不报错）jwplayer（free版另开一些服务，自动请求其他服务的js失败，导致播放器崩溃）
+
+2.
