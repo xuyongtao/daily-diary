@@ -72,3 +72,5 @@ https://github.com/zeroclipboard/zeroclipboard
 具体情况如下fixednav：flash在触发按钮上层（z-index大）；支持事件捕获的浏览器是不会触发离开事件；但是IE8是事件冒泡。
 
 最后直接改用zeroClipboard.Core.js来自己控制Flash的位置
+####2015.01.26 记录该月接触的插件
+1.videojs、jwplayer、ckplayer、pagination、zeroclipboard
