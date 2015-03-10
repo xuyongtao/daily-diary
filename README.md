@@ -74,3 +74,4 @@ https://github.com/zeroclipboard/zeroclipboard
 最后直接改用zeroClipboard.Core.js来自己控制Flash的位置
 ####2015.01.26 记录该月接触的插件
 1.videojs、jwplayer、ckplayer、pagination、zeroclipboard
+####2015.02.10 日本东京设计品牌YOY
